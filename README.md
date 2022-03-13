@@ -1,5 +1,8 @@
 # 파이썬 강의 자료
 
+## 수업 자료 활용하는 방법:
+
+
 ## 1주차: 파이썬 프로그래밍 기초 1
 수업 파일 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb) 
 
