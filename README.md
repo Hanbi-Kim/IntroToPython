@@ -1,13 +1,13 @@
 ## 강사 소개
-이름: 김 한비
-소속: 성균관대학교 MainLab 연구실 [[링크]](https://sites.google.com/view/skku-milab/)
+이름: 김 한비 <br>
+소속: 성균관대학교 MainLab 연구실 [[링크]](https://sites.google.com/view/skku-milab/) <br>
 
-학교:
+학교: <br>
 Australian National University B.S Statistics and Mathematics <br>
 성균관대학교 M.S 데이터사이언스융합과 <br>
 
-연구 분야:
-Computer Vision, Semi-supervised Learning
+연구 분야: <br>
+Computer Vision, Semi-supervised Learning <br>
 
 ## 1주차: 파이썬 프로그래밍 기초 1
 1. 구글 코랩 작업 환경 구성하기
