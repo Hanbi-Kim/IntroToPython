@@ -1,5 +1,5 @@
 ## 강사 소개
-이름: 김 한비 <br>
+이름: 김 한비 [[링크]](https://hanbi-kim.github.io/Github_Resumepage/)<br>
 소속: 성균관대학교 MainLab 연구실 [[링크]](https://sites.google.com/view/skku-milab/) <br>
 
 학교: <br>
