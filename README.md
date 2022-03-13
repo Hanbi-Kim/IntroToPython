@@ -1,5 +1,6 @@
 ## 수업 자료 활용하는 방법:
-
+수업 파일 [[Colab]]() <-- [[Colab]] 클릭
+Open in Colab <-- 클릭
 
 ## 1주차: 파이썬 프로그래밍 기초 1
 수업 파일 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb) 
