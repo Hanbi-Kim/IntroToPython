@@ -11,21 +11,21 @@ Computer Vision, Semi-supervised Learning <br>
 
 <br><br>
 
-## 1주차: 파이썬 프로그래밍 기초 1 <br> [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb)
+## 1주차: 파이썬 프로그래밍 기초 1 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb)
 1. 구글 코랩 작업 환경 구성하기
 2. 데이터 유형 이해하기
 3. 데이터 유형 변환하기 <br>
 
 <br><br>
 
-## 2주차: 파이썬 프로그래밍 기초 2 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_02.ipynb)
+## 2주차: 파이썬 프로그래밍 기초 2 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_02.ipynb)
 1. 함수 이해하기
 2. 조건문 (if,elif,else) 이해하기
 3. 반복문 (for,while) 이해하기 <br>
 
 <br><br>
 
-## 3주차: Pandas & Folium 활용하기 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26Folium.ipynb)
+## 3주차: Pandas & Folium 활용하기 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26Folium.ipynb)
 1. 판다스 패키지를 활용하여 엑셀/csv 파일 저장 불러오기
 2. 데이터 프레임을 활용하기
 3. 서울시 구별 인구 데이터를 Folium을 통해 시각화하기<br>
@@ -37,7 +37,7 @@ Computer Vision, Semi-supervised Learning <br>
 
 <br><br><br> 
 
-## 4주차: BeautifulSoup을 통한 정적 웹크롤링 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/WebCrawling_Introduction.ipynb)
+## 4주차: BeautifulSoup을 통한 정적 웹크롤링 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/WebCrawling_Introduction.ipynb)
 1. 웹페이지의 구성 요소 이해하기
 2. BeautifulSoup을 활용하여 정적 웹페이지 정보 스크래핑하기
 3. 해당 정보를 pandas를 활용하여 데이터프레임에 저장하기<br>
