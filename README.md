@@ -41,9 +41,9 @@ Computer Vision, Semi-supervised Learning <br>
 #### 실습 데이터
 서울시 구별 인구데이터 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr)<br/>
 출처: https://data.seoul.go.kr/dataList/10718/S/2/datasetView.do
-<br><br>
+<br><br> 
 
-### 4주차: BeautifulSoup을 통한 정적 웹크롤링
+## 4주차: BeautifulSoup을 통한 정적 웹크롤링
 1. 웹페이지의 구성 요소 이해하기
 2. BeautifulSoup을 활용하여 정적 웹페이지 정보 스크래핑하기
 3. 해당 정보를 pandas를 활용하여 데이터프레임에 저장하기<br>
