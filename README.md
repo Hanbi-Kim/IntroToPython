@@ -49,4 +49,4 @@ Computer Vision, Semi-supervised Learning <br>
 2. BeautifulSoup을 활용하여 정적 웹페이지 정보 스크래핑하기
 3. 해당 정보를 pandas를 활용하여 데이터프레임에 저장하기<br>
 
-수업파일[[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/WebCrawling_Introduction.ipynb)
+수업 파일 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/WebCrawling_Introduction.ipynb)
