@@ -30,10 +30,9 @@ Computer Vision, Semi-supervised Learning <br>
 2. 데이터 프레임을 활용하기
 3. 서울시 구별 인구 데이터를 Folium을 통해 시각화하기<br>
 
-
 ##### 실습 데이터
 서울시 구별 인구데이터 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr)<br/>
-출처: https://data.seoul.go.kr/dataList/10718/S/2/datasetView.do
+출처: [서울오픈데이터](https://data.seoul.go.kr/dataList/10718/S/2/datasetView.do)
 
 <br><br>
 
@@ -58,5 +57,12 @@ Computer Vision, Semi-supervised Learning <br>
 3. 더배트맨 리뷰에서 가장 높은 빈도를 갖는 명사 추출하기
 4. 워드클라우드로 단어 빈도 시각화
 5. 워드클라우드에 배트맨 로고 입혀서 시각화<br>
+
+##### 실습 데이터
+더배트맨 영화 리뷰 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr)<br/>
+출처: [네이버 영화 리뷰](https://movie.naver.com/movie/point/af/list.naver?st=mcode&sword=154282&target=after&page=20)
+
+배트맨 로고 이미지 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr)
+출처: Auction 배트맨 로고 상표 이미지 다운로드
 
 <br><br>
