@@ -15,7 +15,7 @@
 ## 3주차: Pandas & Folium 활용하기
 1. 판다스 패키지를 활용하여 엑셀/csv 파일 저장 불러오기
 2. 데이터 프레임을 활용하기
-3. 서울시 구별 인구 데이터를 Folium을 통해 <br>
+3. 서울시 구별 인구 데이터를 Folium을 통해 시각화하기<br>
 
 수업 파일 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26Folium.ipynb)
 
