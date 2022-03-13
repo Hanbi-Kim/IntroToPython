@@ -16,12 +16,6 @@ Computer Vision, Semi-supervised Learning <br>
 2. 데이터 유형 이해하기
 3. 데이터 유형 변환하기 <br>
 
-참고 자료 [[점프 투 파이썬]](https://wikidocs.net/book/1) [[W3School]](https://www.w3schools.com/python/default.asp) <br>
-
-유튜브 기초 강의 참고: [[나도코딩]](https://www.youtube.com/watch?v=kWiCuklohdY&ab_channel=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9) [[조코딩]](https://www.youtube.com/watch?v=KL1MIuBfWe0&ab_channel=%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding) <br>
-*동영상 자료의 경우 5~6시간을 소요하기 때문에, 수업을 못 들으셨거나 수업에서 따라오기 힘든 부분만 보시는 것을 권장드립니다.*<br>
-*동영상 자료의 경우 Colab을 사용하지 않고 직접 파이썬을 설치하여 실습을 진행하기 때문에, 해당 부분은 넘기시고 바로 Colab 환경에서 작업하셔도 무방합니다.*
-
 <br><br>
 
 ## 2주차: 파이썬 프로그래밍 기초 2 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_02.ipynb)
@@ -30,6 +24,7 @@ Computer Vision, Semi-supervised Learning <br>
 3. 반복문 (for,while) 이해하기 <br>
 
 <br><br>
+
 ## 3주차: Pandas & Folium 활용하기 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26Folium.ipynb)
 1. 판다스 패키지를 활용하여 엑셀/csv 파일 저장 불러오기
 2. 데이터 프레임을 활용하기
