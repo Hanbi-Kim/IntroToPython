@@ -37,7 +37,15 @@ Computer Vision, Semi-supervised Learning <br>
 
 <br><br><br> 
 
-### 4주차: BeautifulSoup을 통한 정적 웹크롤링 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/WebCrawling_Introduction.ipynb)
+### 4주차: 파이썬 활용 웹 크롤링 기초 1 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/WebCrawling_Introduction.ipynb)
 1. 웹페이지의 구성 요소 이해하기
-2. BeautifulSoup을 활용하여 정적 웹페이지 정보 스크래핑하기
+2. BeautifulSoup을 활용하여 네이버 영화 랭킹 페이지 스크래핑
 3. 해당 정보를 pandas를 활용하여 데이터프레임에 저장하기<br>
+
+<br><br><br> 
+
+### 5주차: 파이썬 활용 웹 크롤링 기초 2 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/WebCrawling_Introduction02.ipynb)
+1. 웹페이지의 구성 요소 이해하기
+2. BeautifulSoup을 활용하여 더베트맨 영화 리뷰 스크래핑
+3. 불필요한 데이터 등을 탐색하고 삭제하기
+4. 해당 정보를 pandas를 활용하여 데이터프레임에 저장하기<br>
