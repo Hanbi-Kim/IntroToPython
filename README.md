@@ -16,7 +16,7 @@ Computer Vision, Semi-supervised Learning <br>
 2. 데이터 유형 이해하기
 3. 데이터 유형 변환하기 <br>
 
-수업 파일 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb) 
+수업 파일 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb) <br>
 참고 자료 [[점프투파이썬]](https://wikidocs.net/book/1)
 <br><br>
 ## 2주차: 파이썬 프로그래밍 기초 2
