@@ -34,7 +34,8 @@ Computer Vision, Semi-supervised Learning <br>
 #### 실습 데이터
 서울시 구별 인구데이터 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr)<br/>
 출처: https://data.seoul.go.kr/dataList/10718/S/2/datasetView.do
-<br><br> 
+
+<br><br><br> 
 
 ## 4주차: BeautifulSoup을 통한 정적 웹크롤링 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/WebCrawling_Introduction.ipynb)
 1. 웹페이지의 구성 요소 이해하기
