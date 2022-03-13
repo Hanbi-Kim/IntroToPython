@@ -62,7 +62,7 @@ Computer Vision, Semi-supervised Learning <br>
 더배트맨 영화 리뷰 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr)<br/>
 출처: [네이버 영화 리뷰](https://movie.naver.com/movie/point/af/list.naver?st=mcode&sword=154282&target=after&page=20)
 
-배트맨 로고 이미지 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr)
+배트맨 로고 이미지 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr) <br/>
 출처: Auction 배트맨 로고 상표 이미지 다운로드
 
 <br><br>
