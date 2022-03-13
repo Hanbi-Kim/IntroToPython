@@ -9,6 +9,8 @@ Australian National University B.S Statistics and Mathematics <br>
 연구 분야: <br>
 Computer Vision, Semi-supervised Learning <br>
 
+<br><br>
+
 ## 1주차: 파이썬 프로그래밍 기초 1
 1. 구글 코랩 작업 환경 구성하기
 2. 데이터 유형 이해하기
