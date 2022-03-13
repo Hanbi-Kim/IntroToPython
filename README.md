@@ -11,7 +11,7 @@ Computer Vision, Semi-supervised Learning <br>
 
 <br><br>
 
-## 1주차: 파이썬 프로그래밍 기초 1 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb)
+## 1주차: 파이썬 프로그래밍 기초 1 <br> [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb)
 1. 구글 코랩 작업 환경 구성하기
 2. 데이터 유형 이해하기
 3. 데이터 유형 변환하기 <br>
