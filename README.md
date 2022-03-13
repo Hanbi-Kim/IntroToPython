@@ -18,7 +18,7 @@ Computer Vision, Semi-supervised Learning <br>
 
 수업 파일 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb) <br>
 참고 자료 [[점프 투 파이썬]](https://wikidocs.net/book/1) [[W3School]](https://www.w3schools.com/python/default.asp) <br>
-동영상 자료 [[나도코딩]](https://www.youtube.com/watch?v=kWiCuklohdY&ab_channel=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9) 
+동영상 자료 [[나도코딩]](https://www.youtube.com/watch?v=kWiCuklohdY&ab_channel=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9) [[조코딩]](https://www.youtube.com/watch?v=KL1MIuBfWe0&ab_channel=%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding) <br>
 
 <br><br>
 ## 2주차: 파이썬 프로그래밍 기초 2
