@@ -1,27 +1,35 @@
 ### 강사 소개
-이름: 김 한비 [[링크]](https://hanbi-kim.github.io/Github_Resumepage/)<br>
-소속: 성균관대학교 MainLab 연구실 [[링크]](https://sites.google.com/view/skku-milab/) <br>
-
-학교: <br>
-Australian National University B.S Statistics and Mathematics <br>
-성균관대학교 M.S 데이터사이언스융합과 <br>
-
-연구 분야: <br>
-Computer Vision, Semi-supervised Learning <br>
-
-<br><br>
-
 ### 1주차: 파이썬 프로그래밍 기초 1 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb)
 1. 구글 코랩 작업 환경 구성하기
-2. 데이터 유형 이해하기
-3. 데이터 유형 변환하기 <br>
+2. 변수(Variable) 생성하기
+3. 데이터 유형(Data Type) 01
+4. 데이터 유형 변환(Casting)
+5. 연산자(Operation)
+6. 문자열 다루기
+7. 데이터 유형 02
+8. 리스트 다루기
 
 <br>
 
 ### 2주차: 파이썬 프로그래밍 기초 2 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_02.ipynb)
-1. 함수 이해하기
+1. 함수(Function) 이해하기
 2. 조건문 (if,elif,else) 이해하기
-3. 반복문 (for,while) 이해하기 <br>
+3. 반복문(for) 이해하기 
+4. 반복문(while) 이해하기
+5. 파이썬 기초 최종실습 [업다운게임]
+
+<br>
+
+### 3주차: Pandas와 Pie Chart 시각화 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26PieChart.ipynb)
+1. Numpy 알아보기
+2. Pandas 설치 및 불러오기
+3. Series
+4. DataFrame
+5. 데이터프레임 다루기 01 [인덱싱]
+6. 데이터프레임 저장하고 불러오기
+7. Colab 환경에서 CSV 파일 업로드하고 불러오기
+8. 데이터프레임 다루기 02 [삭제,재설정]
+9. Matplotlib 활용 Pie Chart 시각화
 
 <br>
 
