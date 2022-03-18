@@ -33,7 +33,20 @@
 
 <br>
 
-### 3주차: Pandas & Folium 활용하기 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26Folium.ipynb)
+### 4주차: Pandas와 Matplotlib 활용 데이터 시각화 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26PieChart.ipynb)
+1. Numpy 알아보기
+2. Pandas 설치 및 불러오기
+3. Series
+4. DataFrame
+5. 데이터프레임 다루기 01 [인덱싱]
+6. 데이터프레임 저장하고 불러오기
+7. Colab 환경에서 CSV 파일 업로드하고 불러오기
+8. 데이터프레임 다루기 02 [삭제,재설정]
+9. Matplotlib 활용 Pie Chart 시각화
+
+<br>
+
+### 5주차: Pandas & Folium 활용하기 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26Folium.ipynb)
 1. 판다스 패키지를 활용하여 엑셀/csv 파일 저장 불러오기
 2. 데이터 프레임을 활용하기
 3. 서울시 구별 인구 데이터를 Folium을 통해 시각화하기<br>
