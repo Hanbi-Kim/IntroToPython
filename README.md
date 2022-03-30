@@ -40,6 +40,9 @@
 8. 데이터프레임 다루기 02 [삭제,재설정]
 9. Matplotlib 활용 Pie Chart 시각화
 
+#### 참고 
+- 데이터 출처: https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file
+
 <br>
 
 ### 4주차: Pandas와 Matplotlib 활용 데이터 시각화 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26PieChart.ipynb)
