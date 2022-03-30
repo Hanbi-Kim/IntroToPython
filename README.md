@@ -21,7 +21,7 @@
 <br>
 
 ## 2주차: 2022년 04월 19일
-### 파이썬 프로그래밍 기초 2 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/code/W02_Python_Introduction_02.ipynb)
+### 파이썬 프로그래밍 기초 2 [[Colab]](https://colab.research.google.com/drive/1sjnw9z9Aoz1v8zYfoxqbksnI8RRSQGwH?usp=sharing)
 #### 세부 강의 목차
 1. 함수(Function) 이해하기
 2. 조건문 (if,elif,else) 이해하기
