@@ -41,7 +41,7 @@
 9. Matplotlib 활용 Pie Chart 시각화
 
 #### 참고 
-- 데이터 출처: https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file
+- 데이터 출처: 공공데이터 포털 [[다운받기]](https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file)
 
 <br>
 
