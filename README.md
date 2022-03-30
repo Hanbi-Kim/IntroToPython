@@ -1,7 +1,9 @@
 <img src='https://github.com/Hanbi-Kim/IntroToPython/blob/main/images/cur.png?raw=true'>
 
-## 파이썬 프로그래밍 기초 1
-### 1주차 [22/04/12]  <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb)
+<br>
+
+## 파이썬 프로그래밍 기초 1 [1주차: 22/04/12]
+###<br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb)
 1. 구글 코랩 작업 환경 구성하기
 2. 변수(Variable) 생성하기
 3. 데이터 유형(Data Type) 01
