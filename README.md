@@ -2,7 +2,7 @@
 
 <br>
 
-## 1주차: 22/04/12 
+## 1주차: 2022년 04월 12일
 ### 파이썬 프로그래밍 기초 1 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Code/W01_Python_Introduction_01.ipynb)
 #### 세부 강의 목차
 1. 구글 코랩 작업 환경 구성하기
@@ -19,7 +19,7 @@
 
 <br>
 
-## 2주차: 22/04/19
+## 2주차: 2022년 04월 19일
 ### 파이썬 프로그래밍 기초 2 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/code/W02_Python_Introduction_02.ipynb)
 #### 세부 강의 목차
 1. 함수(Function) 이해하기
@@ -33,7 +33,7 @@
 
 <br>
 
-## 3주차: 22/04/26
+## 3주차: 2022년 04월 26일
 ### 엑셀/CSV 파일 다루기 및 파이차트 시각화 [[Colab]](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/code/W03_Numpy%26Pandas%26PieChart.ipynb)
 #### 세부 강의 목차
 1. Numpy 알아보기
