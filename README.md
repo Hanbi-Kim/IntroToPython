@@ -4,7 +4,7 @@
 <br>
 
 ## 1주차: 2022년 04월 12일
-### 파이썬 프로그래밍 기초 1 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Code/W01_Python_Introduction_01.ipynb)
+### 파이썬 프로그래밍 기초 1 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Code/W01_Python_Introduction_01.ipynb) [[PPT]](https://www.miricanvas.com/v/1ya5n8)
 #### 세부 강의 목차
 1. 구글 코랩 작업 환경 구성하기
 2. 변수(Variable) 생성하기
