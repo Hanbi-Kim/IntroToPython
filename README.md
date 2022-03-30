@@ -3,8 +3,7 @@
 <br>
 
 ## 1주차: 22/04/12 
-### 파이썬 프로그래밍 기초 1 
-### 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Code/W01_Python_Introduction_01.ipynb)
+### 파이썬 프로그래밍 기초 1 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Code/W01_Python_Introduction_01.ipynb)
 #### 세부 강의 목차
 1. 구글 코랩 작업 환경 구성하기
 2. 변수(Variable) 생성하기
@@ -20,8 +19,8 @@
 
 <br>
 
-## 파이썬 프로그래밍 기초 2 [2주차: 22/04/19]
-### 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/code/W02_Python_Introduction_02.ipynb)
+## 2주차: 22/04/19
+### 파이썬 프로그래밍 기초 2 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/code/W02_Python_Introduction_02.ipynb)
 #### 세부 강의 목차
 1. 함수(Function) 이해하기
 2. 조건문 (if,elif,else) 이해하기
@@ -34,8 +33,8 @@
 
 <br>
 
-## 엑셀/CSV 파일 다루기 및 파이차트 시각화 [3주차: 22/04/26]
-### 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/code/W03_Numpy%26Pandas%26PieChart.ipynb)
+## 3주차: 22/04/26
+### 엑셀/CSV 파일 다루기 및 파이차트 시각화 [[Colab]](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/code/W03_Numpy%26Pandas%26PieChart.ipynb)
 #### 세부 강의 목차
 1. Numpy 알아보기
 2. Pandas 설치 및 불러오기
