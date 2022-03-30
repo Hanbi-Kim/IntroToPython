@@ -1,3 +1,4 @@
+## 커리큘럼
 <img src='https://github.com/Hanbi-Kim/IntroToPython/blob/main/images/cur.png?raw=true'>
 
 <br>
