@@ -1,4 +1,4 @@
-### 강사 소개
+
 ### 1주차: 파이썬 프로그래밍 기초 1 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Python_Introduction_01.ipynb)
 1. 구글 코랩 작업 환경 구성하기
 2. 변수(Variable) 생성하기
