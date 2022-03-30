@@ -35,7 +35,7 @@
 <br>
 
 ## 3주차: 2022년 04월 26일
-### 엑셀/CSV 파일 다루기 및 파이차트 시각화 [[Colab]](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/code/W03_Numpy%26Pandas%26PieChart.ipynb)
+### 엑셀/CSV 파일 다루기 및 파이차트 시각화 [[Colab]](https://colab.research.google.com/drive/1o2ymXO72lqNFIp35x8cnxKCWm5KAdPXC?usp=sharing)
 #### 세부 강의 목차
 1. Numpy 알아보기
 2. Pandas 설치 및 불러오기
