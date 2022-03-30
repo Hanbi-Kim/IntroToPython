@@ -27,7 +27,9 @@
 
 <br>
 
-### 3주차: Pandas와 Pie Chart 시각화 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26PieChart.ipynb)
+## 엑셀/CSV 파일 다루기 및 파이차트 시각화 [3주차: 22/04/26]
+### 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/Data-Analysis-Projects/blob/main/code/W03_Numpy%26Pandas%26PieChart.ipynb)
+#### 세부 강의 목차
 1. Numpy 알아보기
 2. Pandas 설치 및 불러오기
 3. Series
