@@ -14,6 +14,9 @@
 7. 데이터 유형 02
 8. 리스트 다루기
 
+#### 참고 자료
+- 점프 투 파이썬 [[자료보기]](https://wikidocs.net/book/1)
+
 <br>
 
 ## 파이썬 프로그래밍 기초 2 [2주차: 22/04/19]
@@ -41,7 +44,7 @@
 9. Matplotlib 활용 Pie Chart 시각화
 
 #### 참고 
-- 데이터 출처: 공공데이터 포털 [[다운받기]](https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file)
+- 실습 데이터 출처: 공공데이터 포털 [[다운받기]](https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file)
 
 <br>
 
