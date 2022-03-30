@@ -52,7 +52,7 @@
 
 <br>
 
-### 4주차: Pandas와 Matplotlib 활용 데이터 시각화 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26PieChart.ipynb)
+<!-- ### 4주차: Pandas와 Matplotlib 활용 데이터 시각화 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26PieChart.ipynb)
 1. Numpy 알아보기
 2. Pandas 설치 및 불러오기
 3. Series
@@ -107,5 +107,5 @@
 
 배트맨 로고 이미지 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr) <br/>
 출처: Auction 배트맨 로고 상표 이미지 다운로드
-
+ -->
 <br><br>
