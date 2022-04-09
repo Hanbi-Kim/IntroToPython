@@ -19,7 +19,7 @@
 - 점프 투 파이썬 (1장~2장) [[자료보기]](https://wikidocs.net/book/1)
 
 <br>
-
+<!-- 
 ## 2주차: 2022년 04월 19일
 ### 파이썬 프로그래밍 기초 2 [[Colab]](https://colab.research.google.com/drive/1sjnw9z9Aoz1v8zYfoxqbksnI8RRSQGwH?usp=sharing)
 #### 세부 강의 목차
@@ -48,7 +48,7 @@
 9. Matplotlib 활용 Pie Chart 시각화
 
 #### 참고 
-- 실습 데이터 출처: 공공데이터 포털 [[다운받기]](https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file)
+- 실습 데이터 출처: 공공데이터 포털 [[다운받기]](https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file) -->
 
 <br>
 
