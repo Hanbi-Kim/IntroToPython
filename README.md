@@ -19,7 +19,9 @@
 - 점프 투 파이썬 [1장~2장] [[자료보기]](https://wikidocs.net/book/1)
 
 <br>
+
 <!-- 
+
 ## 2주차: 2022년 04월 19일
 ### 파이썬 프로그래밍 기초 2 [[Colab]](https://colab.research.google.com/drive/1sjnw9z9Aoz1v8zYfoxqbksnI8RRSQGwH?usp=sharing)
 #### 세부 강의 목차
@@ -107,5 +109,6 @@
 
 배트맨 로고 이미지 [[다운받기]](https://drive.google.com/drive/u/0/folders/1p07WBloykRusFSJ3UHATdsCN2DlfwBWr) <br/>
 출처: Auction 배트맨 로고 상표 이미지 다운로드
+
  -->
 <br><br>
