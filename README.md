@@ -48,11 +48,11 @@
 9. Matplotlib 활용 Pie Chart 시각화
 
 #### 참고 
-- 실습 데이터 출처: 공공데이터 포털 [[다운받기]](https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file) -->
+- 실습 데이터 출처: 공공데이터 포털 [[다운받기]](https://www.data.go.kr/data/15054357/fileData.do#tab-layer-file) 
 
 <br>
 
-<!-- ### 4주차: Pandas와 Matplotlib 활용 데이터 시각화 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26PieChart.ipynb)
+### 4주차: Pandas와 Matplotlib 활용 데이터 시각화 <br> 수업 자료 코드 [[Colab]](https://github.com/Hanbi-Kim/IntroToPython/blob/main/Pandas%26PieChart.ipynb)
 1. Numpy 알아보기
 2. Pandas 설치 및 불러오기
 3. Series
