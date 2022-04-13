@@ -18,7 +18,7 @@
 <br>
 
 ## 2주차: 2022년 04월 19일
-### 파이썬 프로그래밍 기초 2 [[Colab]](https://colab.research.google.com/drive/1PaLC5Hrd-KZGvUXZs95I_q3GL3rOXgoO?usp=sharing) [[PPT]](https://www.miricanvas.com/v/1ya5n8)
+### 파이썬 프로그래밍 기초 2 [[Colab]](https://colab.research.google.com/drive/1PaLC5Hrd-KZGvUXZs95I_q3GL3rOXgoO?usp=sharing)
 #### 세부 강의 목차
 1. 연산자(Operation)
 2. 문자열 다루기
