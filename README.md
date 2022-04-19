@@ -29,6 +29,8 @@
 - String Method [[자료보기]](https://www.w3schools.com/python/python_strings_methods.asp)
 - List Method [[자료보기]](https://www.w3schools.com/python/python_lists_methods.asp)
 
+<br>
+
 
 ## 3주차: 2022년 04월 26일
 ### 파이썬 프로그래밍 기초 3 
