@@ -33,12 +33,20 @@
 
 
 ## 3주차: 2022년 04월 26일
-### 파이썬 프로그래밍 기초 3 
+### 파이썬 프로그래밍 기초 3 [[Colab]](https://colab.research.google.com/drive/1pA5eLOH0EBqwWzfd13NHovXPXCoH9X8M?usp=sharing)
 #### 세부 강의 목차
-1. 함수
-2. 조건문 (if/elif/else)
-
+1. 챌린지 실습: 인디언 이름 짓기
+2. 함수
+3. 조건문 (if/elif/else)
+4. 최종실습: BMI지수 계산 및 판정기준 
 
 #### 참고 자료
 - 점프 투 파이썬 [3장~4장] [[자료보기]](https://wikidocs.net/book/1)
 - W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
+
+## 4주차: 2022년 05월 03일
+### 파이썬 프로그래밍 기초 4 [[Colab]]()
+#### 세부 강의 목차
+1. For문 
+2. While문
+3. 최종실습: 업다운게임
