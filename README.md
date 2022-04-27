@@ -29,6 +29,8 @@
 - String Method [[자료보기]](https://www.w3schools.com/python/python_strings_methods.asp)
 - List Method [[자료보기]](https://www.w3schools.com/python/python_lists_methods.asp)
 
+#### 2주차 파이썬 코딩 챌린지
+- 나의 인디언 이름 찾기 [링크](https://docs.google.com/forms/d/e/1FAIpQLSdMQKTi9wl40C539R-i9YJ_3WhyuXVmhMdjuC1VsDfSB9uxOg/viewform)
 <br>
 
 
@@ -43,6 +45,8 @@
 #### 참고 자료
 - 점프 투 파이썬 [3장~4장] [[자료보기]](https://wikidocs.net/book/1)
 - W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
+
+<br>
 
 ## 4주차: 2022년 05월 03일
 ### 파이썬 프로그래밍 기초 4 [[Colab]]()
