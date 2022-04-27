@@ -24,8 +24,6 @@
 2. 리스트 다루기
 
 #### 참고 자료
-- 점프 투 파이썬 [1장~2장] [[자료보기]](https://wikidocs.net/book/1)
-- W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
 - String Method [[자료보기]](https://www.w3schools.com/python/python_strings_methods.asp)
 - List Method [[자료보기]](https://www.w3schools.com/python/python_lists_methods.asp)
 
