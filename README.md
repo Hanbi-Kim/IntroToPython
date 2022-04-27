@@ -35,7 +35,7 @@
 ## 3주차: 2022년 04월 26일
 ### 파이썬 프로그래밍 기초 3 [[Colab]](https://colab.research.google.com/drive/1pA5eLOH0EBqwWzfd13NHovXPXCoH9X8M?usp=sharing)
 #### 세부 강의 목차
-1. 챌린지 실습: 인디언 이름 짓기
+1. 2주차 챌린지 실습 문제풀이 [[나의 인디언 이름 찾기]](https://docs.google.com/forms/d/e/1FAIpQLSdMQKTi9wl40C539R-i9YJ_3WhyuXVmhMdjuC1VsDfSB9uxOg/viewform)
 2. 함수
 3. 조건문 (if/elif/else)
 4. 최종실습: BMI지수 계산 및 판정기준 
