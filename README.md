@@ -28,7 +28,7 @@
 - List Method [[자료보기]](https://www.w3schools.com/python/python_lists_methods.asp)
 
 #### 2 주차 파이썬 코딩 챌린지
-- 나의 인디언 이름 찾기 [[링크]](https://docs.google.com/forms/d/e/1FAIpQLSdMQKTi9wl40C539R-i9YJ_3WhyuXVmhMdjuC1VsDfSB9uxOg/viewform)
+- 나의 인디언 이름 찾기 [[링크]](https://colab.research.google.com/drive/1mwwjCBIGwTK0WrsvSyZMZ7eRluGiLU-K?usp=sharing)
 
 
 <br>
