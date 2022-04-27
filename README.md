@@ -29,6 +29,8 @@
 
 #### 2 주차 파이썬 코딩 챌린지
 - 나의 인디언 이름 찾기 [[링크]](https://docs.google.com/forms/d/e/1FAIpQLSdMQKTi9wl40C539R-i9YJ_3WhyuXVmhMdjuC1VsDfSB9uxOg/viewform)
+
+
 <br>
 
 
@@ -47,7 +49,9 @@
 #### 3 주차 파이썬 코딩 챌린지
 - 가위바위보 게임 [[링크]](https://colab.research.google.com/drive/1_gxQ584KI2Q8yd-iOPwW92dHMvJINHd8?usp=sharing)
 
+
 <br>
+
 
 ## 4주차: 2022년 05월 03일
 ### 파이썬 프로그래밍 기초 4 [[Colab]]()
