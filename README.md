@@ -44,6 +44,9 @@
 - 점프 투 파이썬 [3장~4장] [[자료보기]](https://wikidocs.net/book/1)
 - W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
 
+#### 3주차 파이썬 코딩 챌린지
+- 가위바위보 게임 [[링크]](https://colab.research.google.com/drive/1_gxQ584KI2Q8yd-iOPwW92dHMvJINHd8?usp=sharing)
+
 <br>
 
 ## 4주차: 2022년 05월 03일
