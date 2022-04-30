@@ -3,6 +3,10 @@
 
 <br>
 
+## 1-4 주차: 파이썬 프로그래밍 기초 참고자료
+- 점프 투 파이썬 [[자료보기]](https://wikidocs.net/book/1)
+- W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
+
 ## 1주차: 2022년 04월 12일
 ### 파이썬 프로그래밍 기초 1 [[Colab]](https://colab.research.google.com/drive/1PaLC5Hrd-KZGvUXZs95I_q3GL3rOXgoO?usp=sharing) [[PPT]](https://www.miricanvas.com/v/1ya5n8)
 #### 세부 강의 목차
@@ -10,10 +14,6 @@
 2. 변수(Variable) 생성하기
 3. 데이터 유형(Data Type) 01
 4. 데이터 유형 변환(Casting)
-
-#### 참고 자료
-- 점프 투 파이썬 [1장~2장] [[자료보기]](https://wikidocs.net/book/1)
-- W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
 
 <br>
 
@@ -40,10 +40,6 @@
 1. 함수
 2. 조건문 (if/elif/else)
 3. 최종실습: BMI지수 계산 및 BMI지수에 따른 판정기준 나타내기. 
-
-#### 참고 자료
-- 점프 투 파이썬 [3장~4장] [[자료보기]](https://wikidocs.net/book/1)
-- W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
 
 #### 3 주차 파이썬 코딩 챌린지
 - 가위바위보 게임 [[링크]](https://colab.research.google.com/drive/1_gxQ584KI2Q8yd-iOPwW92dHMvJINHd8?usp=sharing)
