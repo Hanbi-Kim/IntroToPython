@@ -1,9 +1,7 @@
 ## 커리큘럼
 <img src='https://github.com/Hanbi-Kim/IntroToPython/blob/main/images/cur.png?raw=true'>
 
-<br>
-
-## 1-4 주차: 파이썬 프로그래밍 기초 참고자료
+### 1-4 주차: 파이썬 프로그래밍 기초 참고자료
 - 점프 투 파이썬 [[자료보기]](https://wikidocs.net/book/1)
 - W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
 
