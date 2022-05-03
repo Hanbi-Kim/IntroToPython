@@ -53,6 +53,9 @@
 ### 파이썬 프로그래밍 기초 4 [[Colab]](https://colab.research.google.com/drive/1XVU4Q__xUMXJOZlPVkTI13uhqQ7KhN1y?usp=sharing)
 #### 세부 강의 목차
 1. While 
+2. 구구단 2단 출력
+3. 1-100 까지 더하기
+4. 최종실습: 짝수/홀수를 구분하여 1-100까지 더하기
 
 #### 4 주차 파이썬 코딩 챌린지
 - 업다운 게임 / 구구단 9단 [[링크]](https://colab.research.google.com/drive/1ZVFDsK6hv8ROYx8ilkwIg1Bd7r4rON1_?usp=sharing)
