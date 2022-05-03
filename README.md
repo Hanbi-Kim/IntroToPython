@@ -50,8 +50,10 @@
 
 
 ## 4주차: 2022년 05월 03일
-### 파이썬 프로그래밍 기초 4 [[Colab]]()
+### 파이썬 프로그래밍 기초 4 [[Colab]](https://colab.research.google.com/drive/1XVU4Q__xUMXJOZlPVkTI13uhqQ7KhN1y?usp=sharing)
 #### 세부 강의 목차
 1. While 
-2. For
-3. 최종실습: 업다운게임
+
+#### 4 주차 파이썬 코딩 챌린지
+- 업다운 게임 / 구구단 9단 [[링크]](https://colab.research.google.com/drive/1ZVFDsK6hv8ROYx8ilkwIg1Bd7r4rON1_?usp=sharing)
+
