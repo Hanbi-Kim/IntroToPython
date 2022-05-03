@@ -57,3 +57,8 @@
 #### 4 주차 파이썬 코딩 챌린지
 - 업다운 게임 / 구구단 9단 [[링크]](https://colab.research.google.com/drive/1ZVFDsK6hv8ROYx8ilkwIg1Bd7r4rON1_?usp=sharing)
 
+## 5주차: 2022년 05월 10일
+### 파이썬 프로그래밍 기초 5 [[Colab]](https://colab.research.google.com/drive/1XVU4Q__xUMXJOZlPVkTI13uhqQ7KhN1y?usp=sharing)
+#### 세부 강의 목차
+1. For
+2. Pandas 시작하기
