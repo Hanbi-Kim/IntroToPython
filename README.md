@@ -69,3 +69,7 @@
 #### 세부 강의 목차
 1. For
 2. Pandas 시작하기
+
+#### 5 주차 파이썬 코딩 챌린지
+- 비밀번호 만들기 [[링크]](https://colab.research.google.com/drive/1UndDDsKqS3JW0CZGtHDbXUeQmWFUma3g?usp=sharing)
+
