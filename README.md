@@ -65,7 +65,7 @@
 
 
 ## 5주차: 2022년 05월 10일
-### 파이썬 프로그래밍 기초 5 [[Colab]](https://colab.research.google.com/drive/1XVU4Q__xUMXJOZlPVkTI13uhqQ7KhN1y?usp=sharing)
+### 파이썬 프로그래밍 기초 5 [[Colab]](https://colab.research.google.com/drive/1JypJvDT6iZv_PZRiTtaW5HyaPvJSuyHP?usp=sharing)
 #### 세부 강의 목차
 1. For
 2. Pandas 시작하기
