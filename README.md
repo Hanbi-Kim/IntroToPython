@@ -73,3 +73,11 @@
 #### 5 주차 파이썬 코딩 챌린지
 - 비밀번호 만들기 [[링크]](https://colab.research.google.com/drive/1UndDDsKqS3JW0CZGtHDbXUeQmWFUma3g?usp=sharing)
 
+## 6주차: 2022년 05월 17일
+### 파이썬 프로그래밍 기초 5 [[Colab]](https://colab.research.google.com/drive/1ECZELMljQxdUWYOAVzS9Km3SFSTrCRrK?usp=sharing)
+#### 세부 강의 목차
+1. Series
+2. DataFrame 
+3. Pie Chart
+
+
