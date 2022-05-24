@@ -74,7 +74,7 @@
 - 비밀번호 만들기 [[링크]](https://colab.research.google.com/drive/1UndDDsKqS3JW0CZGtHDbXUeQmWFUma3g?usp=sharing)
 
 ## 6주차: 2022년 05월 17일
-### 파이썬 프로그래밍 기초 5 [[Colab]](https://colab.research.google.com/drive/1XQ5t5YkloqqU7jfQNi-WEjPZlfDG74pp?usp=sharing)
+### 강의자료 [[Colab]](https://colab.research.google.com/drive/1XQ5t5YkloqqU7jfQNi-WEjPZlfDG74pp?usp=sharing)
 #### 세부 강의 목차
 1. Series
 2. DataFrame 
@@ -82,7 +82,7 @@
 
 
 ## 7주차: 2022년 05월 24일
-### 파이썬 프로그래밍 기초 5 [[Colab]](https://colab.research.google.com/drive/1fH_DlLvkp1tCW5oDH2K3Zp58_KSnwsw1?usp=sharing)
+### 강의 자료 [[Colab]](https://colab.research.google.com/drive/1fH_DlLvkp1tCW5oDH2K3Zp58_KSnwsw1?usp=sharing)
 #### 세부 강의 목차
 1. Pandas
 2. Matplotlib 
