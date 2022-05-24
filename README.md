@@ -81,3 +81,12 @@
 3. Pie Chart
 
 
+## 7주차: 2022년 05월 24일
+### 파이썬 프로그래밍 기초 5 [[Colab]](https://colab.research.google.com/drive/1fH_DlLvkp1tCW5oDH2K3Zp58_KSnwsw1?usp=sharing)
+#### 세부 강의 목차
+1. Pandas
+2. Matplotlib 
+
+#### 참고 자료
+- Matplotlib Tutorial [[링크]](https://matplotlib.org/3.5.0/plot_types/index.html)
+- Python Gallery [[링크]](https://www.python-graph-gallery.com/)
