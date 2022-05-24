@@ -78,7 +78,6 @@
 #### 세부 강의 목차
 1. Series
 2. DataFrame 
-3. Pie Chart
 
 
 ## 7주차: 2022년 05월 24일
