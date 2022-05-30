@@ -101,3 +101,6 @@
 1. Plotly [[colab]](https://colab.research.google.com/drive/1IQD18Ga8k61zlNiU0UHZ3xrREiFTru8S?usp=sharing)
 2. Folium [[colab]](https://colab.research.google.com/drive/1VQQmlY5JtsIPDsqVakgE04KeasgpXEyF?usp=sharing)
 
+#### 참고 자료
+- Plotly.Scatter: [[링크]](https://plotly.com/python-api-reference/generated/plotly.express.scatter)
+- Folium: [[링크]](https://python-visualization.github.io/folium/modules.html)
