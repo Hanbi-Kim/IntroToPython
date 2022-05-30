@@ -73,12 +73,15 @@
 #### 5 주차 파이썬 코딩 챌린지
 - 비밀번호 만들기 [[링크]](https://colab.research.google.com/drive/1UndDDsKqS3JW0CZGtHDbXUeQmWFUma3g?usp=sharing)
 
+<br>
+
 ## 6주차: 2022년 05월 17일
 ### 강의자료 [[Colab]](https://colab.research.google.com/drive/1XQ5t5YkloqqU7jfQNi-WEjPZlfDG74pp?usp=sharing)
 #### 세부 강의 목차
 1. Series
 2. DataFrame 
 
+<br>
 
 ## 7주차: 2022년 05월 24일
 ### 강의 자료 [[Colab]](https://colab.research.google.com/drive/1fH_DlLvkp1tCW5oDH2K3Zp58_KSnwsw1?usp=sharing)
@@ -90,7 +93,7 @@
 - Matplotlib Tutorial [[링크]](https://matplotlib.org/3.5.0/plot_types/index.html)
 - Python Gallery [[링크]](https://www.python-graph-gallery.com/)
 
-
+<br>
 
 ## 8주차: 2022년 05월 31일
 ### 강의 자료 
