@@ -98,6 +98,6 @@
 ## 8주차: 2022년 05월 31일
 ### 강의 자료 
 #### 세부 강의 목차
-1. Plotly
+1. Plotly [[colab]](https://colab.research.google.com/drive/1IQD18Ga8k61zlNiU0UHZ3xrREiFTru8S?usp=sharing)
 2. Folium [[colab]](https://colab.research.google.com/drive/19YkTCeKQ2bJ_ICGOzHPjucEFyaZAFwEo?usp=sharing)
 
