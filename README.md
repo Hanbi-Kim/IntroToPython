@@ -89,3 +89,12 @@
 #### 참고 자료
 - Matplotlib Tutorial [[링크]](https://matplotlib.org/3.5.0/plot_types/index.html)
 - Python Gallery [[링크]](https://www.python-graph-gallery.com/)
+
+
+
+## 8주차: 2022년 05월 31일
+### 강의 자료 
+#### 세부 강의 목차
+1. Plotly
+2. Folium [[colab]](https://colab.research.google.com/drive/19YkTCeKQ2bJ_ICGOzHPjucEFyaZAFwEo?usp=sharing)
+
