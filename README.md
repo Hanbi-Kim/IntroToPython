@@ -110,6 +110,7 @@
 ### 강의 자료 
 #### 세부 강의 목차
 1. Folium [[colab]](https://colab.research.google.com/drive/1VQQmlY5JtsIPDsqVakgE04KeasgpXEyF?usp=sharing)
+2. BeautifulSoup [[colab]](https://colab.research.google.com/drive/1LHEUFKxUAJ6pK-Q-UgwiYzVUui1f4ZjC?usp=sharing)
 
 #### 참고 자료
 - Folium: [[링크]](https://python-visualization.github.io/folium/modules.html)
