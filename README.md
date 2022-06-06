@@ -98,9 +98,18 @@
 ## 8주차: 2022년 05월 31일
 ### 강의 자료 
 #### 세부 강의 목차
-1. Plotly [[colab]](https://colab.research.google.com/drive/1IQD18Ga8k61zlNiU0UHZ3xrREiFTru8S?usp=sharing)
-2. Folium [[colab]](https://colab.research.google.com/drive/1VQQmlY5JtsIPDsqVakgE04KeasgpXEyF?usp=sharing)
+1. Plotly [[colab]](https://colab.research.google.com/drive/171eDqhRPOg_Ay2vVuws6kSRcwhnTSzMN?usp=sharing)
 
 #### 참고 자료
 - Plotly.Scatter: [[링크]](https://plotly.com/python-api-reference/generated/plotly.express.scatter)
+
+
+<br>
+
+## 9주차: 2022년 06월 07일
+### 강의 자료 
+#### 세부 강의 목차
+1. Folium [[colab]](https://colab.research.google.com/drive/1VQQmlY5JtsIPDsqVakgE04KeasgpXEyF?usp=sharing)
+
+#### 참고 자료
 - Folium: [[링크]](https://python-visualization.github.io/folium/modules.html)
