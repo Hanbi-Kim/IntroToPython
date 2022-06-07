@@ -76,7 +76,7 @@
 <br>
 
 ## 6주차: 2022년 05월 17일
-### 강의자료 [[Colab]](https://colab.research.google.com/drive/1XQ5t5YkloqqU7jfQNi-WEjPZlfDG74pp?usp=sharing)
+### 강의자료 [[colab]](https://colab.research.google.com/drive/1ECZELMljQxdUWYOAVzS9Km3SFSTrCRrK?usp=sharing)
 #### 세부 강의 목차
 1. Series
 2. DataFrame 
