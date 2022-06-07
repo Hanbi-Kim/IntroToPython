@@ -113,3 +113,4 @@
 
 #### 참고 자료
 - Folium: [[링크]](https://python-visualization.github.io/folium/modules.html)
+- 6호선 역 데이터 출처: https://www.data.go.kr/data/15041305/fileData.do
