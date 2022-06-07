@@ -103,7 +103,6 @@
 #### 참고 자료
 - Plotly.Scatter: [[링크]](https://plotly.com/python-api-reference/generated/plotly.express.scatter)
 
-
 <br>
 
 ## 9주차: 2022년 06월 07일
