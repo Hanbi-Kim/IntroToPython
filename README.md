@@ -84,7 +84,7 @@
 <br>
 
 ## 7주차: 2022년 05월 24일
-### 강의 자료 [[Colab]](https://colab.research.google.com/drive/1fH_DlLvkp1tCW5oDH2K3Zp58_KSnwsw1?usp=sharing)
+### 강의 자료 [[colab]](https://colab.research.google.com/drive/1gsd6LfXIOkuB3RG3ftGbvt0dOImtotig?usp=sharing)
 #### 세부 강의 목차
 1. Pandas
 2. Matplotlib 
