@@ -117,4 +117,4 @@
 
 ## 10주차: 2022년 06월 14일
 ### 강의 자료 
-- Review [[colab]](https://colab.research.google.com/drive/1kRoeAqQHbBUoc29b2ovabO0Z6gvnZSGu?usp=sharing)
+1. Review [[colab]](https://colab.research.google.com/drive/1kRoeAqQHbBUoc29b2ovabO0Z6gvnZSGu?usp=sharing)
