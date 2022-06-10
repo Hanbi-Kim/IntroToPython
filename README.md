@@ -97,7 +97,6 @@
 
 ## 8주차: 2022년 05월 31일
 ### 강의 자료 
-#### 세부 강의 목차
 1. Plotly [[colab]](https://colab.research.google.com/drive/171eDqhRPOg_Ay2vVuws6kSRcwhnTSzMN?usp=sharing)
 
 #### 참고 자료
@@ -107,10 +106,15 @@
 
 ## 9주차: 2022년 06월 07일
 ### 강의 자료 
-#### 세부 강의 목차
 1. Folium [[colab]](https://colab.research.google.com/drive/1KpQ6FeTFfwaC2cL0qUrdfYrs0Dv-FJen?usp=sharing)
 2. BeautifulSoup [[colab]](https://colab.research.google.com/drive/1N70GKfAyxcMRrU4_EX8dfB8EuKv91o8m?usp=sharing)
 
 #### 참고 자료
 - Folium: [[링크]](https://python-visualization.github.io/folium/modules.html)
 - 6호선 역 데이터 출처: https://www.data.go.kr/data/15041305/fileData.do
+
+<br>
+
+## 10주차: 2022년 06월 14일
+### 강의 자료 
+- Review [[colab]](https://colab.research.google.com/drive/1kRoeAqQHbBUoc29b2ovabO0Z6gvnZSGu?usp=sharing)
