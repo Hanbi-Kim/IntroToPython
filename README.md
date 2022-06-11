@@ -118,3 +118,10 @@
 ## 10주차: 2022년 06월 14일
 ### 강의 자료 
 1. Review [[colab]](https://colab.research.google.com/drive/1kRoeAqQHbBUoc29b2ovabO0Z6gvnZSGu?usp=sharing)
+
+
+### 추가 자료 
+- DataTime Package : 날짜와 시간 등을 다루는 파이썬 라이브러리 [[colab]](https://colab.research.google.com/drive/1TObmKYDRdBtydSooZL_ixYwaVwyQ8Rzn?usp=sharing)
+- Naver News Crawling : 네이버 뉴스 기사 및 본문을 크롤링하는 코드 [[colab]](https://colab.research.google.com/drive/1ctO5jodnMRavemrlONl2qm0ebCynsJk3?usp=sharing)
+- Machine Learning KNN : Iris 데이터셋에 머신러닝 KNN 알고리즘을 적용하여 품종을 분류하는 코드 [[colab]](https://colab.research.google.com/drive/1-_w3sLkDhciDCFQNa7CILVi7hYZj1Njx?usp=sharing)
+
