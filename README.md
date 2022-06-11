@@ -4,6 +4,7 @@
 ### 1-4 주차: 파이썬 프로그래밍 기초 참고자료
 - 점프 투 파이썬 [[자료보기]](https://wikidocs.net/book/1)
 - W3School Python [[자료보기]](https://www.w3schools.com/python/default.asp)
+- 프로그래머스 파이썬입문 강의 [[자료보기]](https://programmers.co.kr/learn/courses/2)
 
 <br>
 
@@ -80,7 +81,7 @@
 #### 세부 강의 목차
 1. Series
 2. DataFrame 
-
+3. 연습문제 [[colab]](https://colab.research.google.com/drive/1p4uNkmh2ziQM27MDOJHOO80UoE5ml55f?usp=sharing)
 <br>
 
 ## 7주차: 2022년 05월 24일
@@ -88,6 +89,7 @@
 #### 세부 강의 목차
 1. Pandas
 2. Matplotlib 
+3. 연습문제 [[colab]](https://colab.research.google.com/drive/1FlLIjKi2zzFvv5yyxzhaPY6mSlD5SBlX?usp=sharing)
 
 #### 참고 자료
 - Matplotlib Tutorial [[링크]](https://matplotlib.org/3.5.0/plot_types/index.html)
@@ -98,6 +100,7 @@
 ## 8주차: 2022년 05월 31일
 ### 강의 자료 
 1. Plotly [[colab]](https://colab.research.google.com/drive/171eDqhRPOg_Ay2vVuws6kSRcwhnTSzMN?usp=sharing)
+2. 연습문제 [[colab]](https://colab.research.google.com/drive/1cmyMV8X_WS0fowbDe3x0uYP8AsuheFYH?usp=sharing)
 
 #### 참고 자료
 - Plotly.Scatter: [[링크]](https://plotly.com/python-api-reference/generated/plotly.express.scatter)
