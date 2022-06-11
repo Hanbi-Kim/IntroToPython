@@ -119,6 +119,18 @@
 ### 강의 자료 
 1. Review [[colab]](https://colab.research.google.com/drive/1kRoeAqQHbBUoc29b2ovabO0Z6gvnZSGu?usp=sharing)
 
+<br>
+
+## 11주차: 2022년 06월 21일
+### 강의 자료 
+
+<br>
+
+## 12주차: 2022년 06월 28일
+### 강의 자료 
+
+<br>
+<br>
 
 ### 추가 자료 
 - DataTime Package : 날짜와 시간 등을 다루는 파이썬 라이브러리 [[colab]](https://colab.research.google.com/drive/1TObmKYDRdBtydSooZL_ixYwaVwyQ8Rzn?usp=sharing)
