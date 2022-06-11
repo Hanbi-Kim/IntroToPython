@@ -133,6 +133,7 @@
 <br>
 
 ### 추가 자료 
+- 조건문, 반복문 전체 리뷰 [[https://colab.research.google.com/drive/1SqFp7lS0EDMA7A1h2GTYIFkQjwL91NuG?usp=sharing)
 - DataTime Package : 날짜와 시간 등을 다루는 파이썬 라이브러리 [[colab]](https://colab.research.google.com/drive/1TObmKYDRdBtydSooZL_ixYwaVwyQ8Rzn?usp=sharing)
 - Naver News Crawling : 네이버 뉴스 기사 및 본문을 크롤링하는 코드 [[colab]](https://colab.research.google.com/drive/1ctO5jodnMRavemrlONl2qm0ebCynsJk3?usp=sharing)
 - Machine Learning KNN : Iris 데이터셋에 머신러닝 KNN 알고리즘을 적용하여 품종을 분류하는 코드 [[colab]](https://colab.research.google.com/drive/1-_w3sLkDhciDCFQNa7CILVi7hYZj1Njx?usp=sharing)
