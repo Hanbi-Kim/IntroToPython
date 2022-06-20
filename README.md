@@ -124,7 +124,7 @@
 <br>
 
 ## 11주차: 2022년 06월 21일
-### 강의 자료 
+### 강의 자료 [[colab]](https://colab.research.google.com/drive/1faGvyG8tuCZCGrz4Bnfx-zvTvSSE88AB?usp=sharing)
 
 <br>
 
