@@ -126,6 +126,9 @@
 ## 11주차: 2022년 06월 21일
 ### 강의 자료 [[colab]](https://colab.research.google.com/drive/1faGvyG8tuCZCGrz4Bnfx-zvTvSSE88AB?usp=sharing)
 
+### 참고 사이트
+- https://www.kita.net/cmmrcInfo/ehgtGnrlzInfo/rltmEhgt.do
+
 <br>
 
 ## 12주차: 2022년 06월 28일
